@@ -4,7 +4,7 @@ A production-grade React application for Fenrir Security - a B2B SaaS security p
 
 ## Live Demo
 
-[View Live Application](https://fenrir-frontend-ten.vercel.app/login)
+[View Live Application](fenrir-frontend-ten.vercel.app)
 
 ## Screenshots
 
